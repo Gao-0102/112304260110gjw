@@ -44,7 +44,7 @@
 ## 5. Kaggle 截图
 请在下方插入 Kaggle 提交结果截图，要求能清楚看到分数信息。
 
-![Kaggle截图](./image/112304260110_高静雯_kaggle_score)
+![Kaggle截图](./image/112304260110_高静雯_kaggle_score.png)
 
 
 
