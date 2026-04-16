@@ -13,7 +13,7 @@ unlabeledTrainData.tsv
 *.bin
 
 # Submission files
-*.csv
+
 
 # Environment variables
 .env
