@@ -26,7 +26,7 @@
 - **提交日期**：2026-04-16
 
 - **GitHub 仓库地址**：https://github.com/Gao-0102/112304260110gjw
-- **GitHub README 地址**：
+- **GitHub README 地址**：https://github.com/Gao-0102/112304260110gjw/blob/main/README.md
 
 
 
@@ -35,8 +35,8 @@
 ## 4. Kaggle 成绩
 请填写你最终提交到 Kaggle 的结果：
 
-- **Public Score**：
-- **Private Score**（如有）：
+- **Public Score**：0.90464
+- **Private Score**（如有）：0.90464
 - **排名**（如能看到可填写）：
 
 ---
@@ -44,10 +44,9 @@
 ## 5. Kaggle 截图
 请在下方插入 Kaggle 提交结果截图，要求能清楚看到分数信息。
 
-![Kaggle截图](./images/112304260110_高静雯_kaggle_score)
+![Kaggle截图](./image/112304260110_高静雯_kaggle_score)
 
-> 建议将截图保存在 `images` 文件夹中。  
-> 截图文件名示例：`2023123456_张三_kaggle_score.png`
+
 
 ---
 
