@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+labeledTrainData.tsv
+testData.tsv
+unlabeledTrainData.tsv
+
+# Model files
+*.pkl
+*.bin
+
+# Submission files
+*.csv
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+*.pyc
+venv/
